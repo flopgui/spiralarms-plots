@@ -14,6 +14,3 @@ This repository contains the code for some of the plots in the paper "[Tidally i
 * `fourier_plots.ipynb`: Plots for "[Tidally induced spiral arms]('https://www.aanda.org/articles/aa/full_html/2022/12/aa44064-22/aa44064-22.html')".
 * `rotation_curves.ipynb`: Fitting parameters of rotation curves.
 * `z_data_exploration.ipynb`: Some plots with models and Gaia data involving the three dimensions.
-
-## Data files
-
